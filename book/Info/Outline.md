@@ -7,13 +7,13 @@ Below is a list of topics and the corresponding textbook chapters.
 | :----   |  :----:    | :---------------------------------------                 | :----------------------- |
 |1 \& 2	  |   **1**       |Review and Skill Building	                               | Ch. 1, 2 \& Appendix 5   |
 |3 \& 4   |   **2**       |Acid equilibrium, Kinetics \& Catalysis                   | Ch. 5, 7 \& 9            |
-|5 \& 6	  |   **3**       |Linear Free-Energy Relationships                          |  Ch. 8                  |
-|	      |        |Break Week	                                               |                          |
-|7	      |   **4**       |Isotope Effects  \& Test #1                  	           | Ch. 8|
-|8 \& 9   |   **5**       |Exploration of Additions and Elimination Mechanisms	   | Ch. 10 \& literature |
-|10       |   **6**       |Exploration of Substitution and Rearrangement Mechanisms  | Ch. 11 \& literature |
-|11       |   **7**       |Test #2 \& Exploration of Pericyclic Reactions	           | Ch. 15 \& literature |
-|12	\& 13 |   **8**     |More Examples, Review and Wrap-up                         | literature |
+|5 \& 7	  |   **3**       |Linear Free-Energy Relationships                          |  Ch. 8                  |
+|6	      |        |Break Week	                                               |                          |
+|8	      |   **4**       |Test #1 \& Isotope Effects                 	           | Ch. 8|
+|9 \& 10   |   **5**       |Exploration of Additions and Elimination Mechanisms	   | Ch. 10 \& literature |
+|11       |   **6**       |Exploration of Substitution and Rearrangement Mechanisms  | Ch. 11 \& literature |
+|12       |   **7**       |Test #2 \& Exploration of Pericyclic Reactions	           | Ch. 15 \& literature |
+|13       |   **8**     |More Examples, Review and Wrap-up                         | literature |
 
 
 To achieve our goals we must examine the following ideas.
@@ -61,27 +61,27 @@ Below is a proposed plan for the course this year. **This will change** as I get
 
 |Lesson |Class  | Date     | Topic                                                               | Reading                  |
 | :----: | :----: | :----    | :---------------------------------------                            | :----------------------- |
-| **1** | 1     | Sept. 3  | Welcome and Course Introduction, Review of structure and Sterics    | Ch. 1, 2.1, 2.3          |
-|       | 2     | Sept. 5  | Review of structure and molecular orbitals                          | Ch. 1.2, 1.3, 2.4   |
-|       | 3     | Sept. 8  | Review of mechanisms and "arrow pushing"                            | Appendix 5               |
-|       | 4     | Sept. 9  | Review of transition state theory and reaction coordinates	         | Ch. 7.1, 7.2, 7.3        |
-|       | 5     | Sept. 12 | Review of energy surfaces.                                          | Ch. 7.8 \& Appendix 5    |
-| **2** | 6     | Sept. 15 | Bronsted acid/base theory and acidity functions                     | Ch. 5.1, 5.2, 5.3        |
-|       | 7     | Sept. 17 | Structure effects on acid equilibrium                               | Ch. 5.4                  |
-|       | 8     | Sept. 19 | Review of reaction kinetics and catalysis.                          | Ch. 7.4, 7.5, 7.6        |
-|       | 9     | Sept. 22 |  Acid/base catalysis                                                | Ch. 9.1, 9.2             |
-|       | 10    | Sept. 24 |  pH-rate profiles                                                   | Ch. 9.3                  |
-|       | 11    | Sept. 26 |  Bronsted plots                                                     | Ch. 8.5, 9.3             |
-| **3** | 12    | Sept. 29 |  LFER: Inductive substituent effects.                               | Ch. 8.2, 8.3             |
-|       | 13    | Oct. 1   |  Resonance substituent effects                                      |  Ch. 8.2, 8.3            |
-|       | 14    | Oct. 3   |  Interpreting Hammett plots                                         |  Ch. 8.2, 8.3            |
-|       | 15    | Oct. 6   |  Steric substituent effects                                         | Ch. 8.4                  |
-|       | 16    | Oct. 8   |  Solvent effects                                                    |  Ch. 8.4, 8.5, 8.6       |
-|       | 17    | Oct. 10  |  Investigating reaction mechansims                                  |  Ch. 8.7, 8.8            |
-|       |       |          | Break Week                                                          |                          |
-| **4** | 18    | Oct. 20  |  Theory of isotope effects                                          |   Ch. 8.1                |
-|       | 19    | Oct. 22  |  Interpreting isotope effects                                       |   Ch. 8.1                |
-|       | 20    | Oct. 24  |  **Test \#1**                                                       |   Classes 1 to 17        |
+| **1** | 1     | Sept. 9  | Welcome and Course Introduction, Review of structure and Sterics    | Ch. 1, 2.1, 2.3          |
+|       | 2     | Sept. 11  | Review of structure and molecular orbitals                          | Ch. 1.2, 1.3, 2.4   |
+|       | 3     | Sept. 14  | Review of mechanisms and "arrow pushing"                            | Appendix 5               |
+|       | 4     | Sept. 16  | Review of transition state theory and reaction coordinates	         | Ch. 7.1, 7.2, 7.3        |
+|       | 5     | Sept. 18 | Review of energy surfaces.                                          | Ch. 7.8 \& Appendix 5    |
+| **2** | 6     | Sept. 21 | Bronsted acid/base theory and acidity functions                     | Ch. 5.1, 5.2, 5.3        |
+|       | 7     | Sept. 23 | Structure effects on acid equilibrium                               | Ch. 5.4                  |
+|       | 8     | Sept. 25 | Review of reaction kinetics and catalysis. Acid/base catalysis                         | Ch. 7.4, 7.5, 7.6, 9.1, 9.2        |
+|       | 9     | Sept. 28 | pH-rate profiles                                           | Ch.  9.2, 9.3            |
+|       | 10    | Sept. 30 | **No Class** National Reconciliation Day                                                    |                   |
+|       | 11    | Oct. 2 |  Bronsted plots                                                     | Ch. 8.5, 9.3             |
+| **3** | 12    | Oct. 5 |  LFER: Inductive substituent effects.                               | Ch. 8.2, 8.3             |
+|       | 13    | Oct. 7   |  Resonance substituent effects                                      |  Ch. 8.2, 8.3            |
+|       | 14    | Oct. 9  |  Interpreting Hammett plots                                         |  Ch. 8.2, 8.3            |
+|       |       |          | **Break Week**                                                          |                          |
+|       | 15    | Oct. 19   |  Steric substituent effects                                         | Ch. 8.4                  |
+|       | 16    | Oct. 21   |  Solvent effects                                                    |  Ch. 8.4, 8.5, 8.6       |
+|       | 17    | Oct. 23  |  Investigating reaction mechansims                                  |  Ch. 8.7, 8.8            |
+|       | 18    | Oct. 26  |  **Test \#1**                                                       |   Classes 1 to 17        |
+| **4** | 19    | Oct. 28  |  Theory of isotope effects                                          |   Ch. 8.1                |
+|       | 20    | Oct. 30  |  Interpreting isotope effects                                       |   Ch. 8.1                |
 | **5** | 21    | Oct. 27  |  Examples of S<sub>N</sub>1 \& S<sub>N</sub>2 substitution          | Ch. 11.1 to 11.5, lit.   |
 |       | 22    | Oct. 29  |  Examples of carbocation rearrangements                             | Ch. 11.8, lit.           |
 |       | 23    | Oct. 31  |  Examples of nucleophilic rearrangements                            | Ch. 11.9, 11.10, lit.    |

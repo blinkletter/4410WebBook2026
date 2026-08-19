@@ -61,10 +61,9 @@ Grading will follow the scheme outlined below. This grading scheme is open for r
 | Component                    | Grade  |
 | :-------------               | :----- |
 | Class Participation          | 10%    | 
-| Assignments                  | 30%    | 
-| Personal Exploration Report  | 10%    |
-| Mid-Term Tests	           | 20%    |
-| Final Exam	               | 30%    |
+| Assignments                  | 40%    | 
+| Personal Exploration Report  | 20%    |
+| Mid-Term Tests	           | 30%    |
 
 Active **class participation** is required in this course. Students are expected to arrive prepared to participate in discussion of the topic. **Readings and exercises** will be assigned in advance. The **assigned** textbook **questions** are meant to stimulate discussion and develop your **skills**. You may work together on problems, just thank those who helped you when presenting your solution. Take note that **the assignments are to be completed individually**.
 
@@ -75,10 +74,12 @@ During the course, you will begin an exercise called the "**personal exploration
 ### Mid-Term Test Schedule
 | Event        | Date  |
 | :-------------   | :----- |
-| Test \#1        | Oct. 24<sup>th</sup>  |
-| Test \#2        | Nov. 19<sup>th</sup>  |
+| Test \#1        | Oct. 26<sup>th</sup>  |
+| Test \#2        | Nov. 23<sup>th</sup>  |
 
-There are **two mid-term tests** planned. They will be written during class time. There is also a **final exam** that will take place during the exam period at the end of the semester.
+There are **two mid-term tests** planned. They will be written during class time. There is no **final exam**.
+
+I am open to adjustments of the grading scheme. Suggestions are welcome.
 
 ## Academic Integrity 
 Academic integrity is important. As a **community of scholars**, the University of Prince Edward Island is committed to the principle of academic integrity among all its participants. Academic **dishonesty** as defined in [Academic Regulation 20](https://calendar.upei.ca/current/chapter/undergraduate-and-professional-programs-academic-regulations/) and **will not be tolerated**. Within the constraints of this regulation and [Academic Regulation 12](https://calendar.upei.ca/current/chapter/undergraduate-and-professional-programs-academic-regulations/), the University **supports** instructors in their efforts to deal **effectively** with cases as they may arise from time to time.
@@ -102,12 +103,11 @@ The land on which the University of Prince Edward Island is located is **Epekwit
 
 
 ## Storm Cancellations
-If UPEI is closed for inclement weather, no in-person class will be held that day. Class may be performed online utilizing the **Blackboard system** that is provide by UPEI through Moodle. Check your email for announcements from your instructor when there are weather cancellations. Should a storm cancellation fall on the date of an examination or assessment, the date will be moved to the next available class. 
+If UPEI is closed for inclement weather, no in-person class will be held that day. Should a storm cancellation fall on the date of an examination or assessment, the date will be moved to the next available class. 
 
 ## Exam Absences
 If you miss a test or exam because of illness, death in the family, etc., please let the instructor know **as soon as possible** so that alternate arrangements can be made.
 
-In the event of a missed midterm examination, the weight of the exam will be applied to the final exam. Please do your best to make sure you complete both midterms as adding weight to the final exam does put a lot of weight/stress on one exam.
 
 ## Communications
 UPEI business is conducted by email. Your **UPEI email address is your official point of contact**. Please check your UPEI email often. Emails will be responded to during standard working hours 9am-5pm. **Please** provide instructors, coordinators, teaching assistants, and staff with at minimum 48h to **respond** before sending a follow-up email.
