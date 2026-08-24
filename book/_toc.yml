@@ -23,7 +23,8 @@ parts:
           - file: Lessons/Lesson_01_Parts/part03.md        
           - file: Lessons/Lesson_01_Parts/part04.md        
           - file: Lessons/Lesson_01_Parts/part05.md        
-          - file: Lessons/Lesson_01_Parts/assignment.md
+          - file: Lessons/Lesson_01_Parts/assignment0.md
+          - file: Lessons/Lesson_01_Parts/assignment1.md
         - file: Lessons/Lesson_02
           sections:
           - file: Lessons/Lesson_02Parts/part06.md        

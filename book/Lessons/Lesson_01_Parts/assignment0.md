@@ -1,10 +1,12 @@
-# Assignment \#1: Mechanism Review
+# Assignment \#0: Mechanism Review
 
-**Due** to be uploaded to Moodle by 9:00AM on the day of class meeting \#4
+**Due** to be uploaded to Moodle by 9:00AM on the day of class meeting \#2 (that's almost tomorrow!)
 
-This is your first assignment. this page will include information about this assignment and general information about completing all the assignments. You can refer back to this page to make sure you complete any given assignment properly.
+This is your first assignment. Complete this assignment quickly. It is due for the very next class meeting. 
 
-Each lesson has one or more **assignments**. You will always have 3 full business days to complete any assignment. 
+In all assignments, **this page** will include information about this assignment and general information about completing all the assignments. You can refer back to this page to make sure you complete any given assignment properly.
+
+Each lesson has one or more **assignments**. You will always have at least 3 full business days to complete any assignment (except for this one). 
 
 <hr>
 
@@ -12,12 +14,17 @@ Each lesson has one or more **assignments**. You will always have 3 full busines
 
 This section describes the **activity** that you are to perform for the assignment. Be sure to do all the activities in an assignment, even the ones not required for the deliverable. They are there for a reason. Do the following&hellip;
 
-- **Review** your organic chemistry. <br>
-- **Answer** questions 2D, 2E, 3B, 3E and 3H at the end of appendix 5. Present the starting materials, the important steps of the mechanism showing electron movement and the final product. Write a description of the reaction that describes the steps and justifies your choices of mechanism. be sure to describe why the indicated product is produced. What is the driving force? Why are other possibilities less likely?<br>
+- **Read** the assigned paper (see below) from the recent literature as best you can. Don't worry if there is terminology or concepts with which you are unfamiliar. 
+- **Imagine** that I plan to base the whole final exam for this course on this paper. **What questions** might a crusty old professor ask? I often have a nightmare where I walk into a room and find that I have arrived at the final exam for a course that I did not know I was enrolled in. I wake up in terror! Imagine that you just entered that room, and the final exam was this paper. 
+- **Take note** of anything that is new to you, that you do not understand, or that you feel you need more practice with. We need to make a plan so we can sepnd the rest of this course **getting you ready** for that final exam.
+<hr>
 
-I have copied the appendix 5 questions from the textbook and [**made them available**](../Lesson_01/Appendix_5_Questions.pdf). Please acquire a copy of the **textbook** soon as I won’t be able to do this again. Respect copyright - someday you may be an author.
+## The Literature
 
-I recommend that you attempt every problem at the end of appendix 5. 
+Physical organic chemists spend a lot of energy arguing that the field is still relevant. A recent issue of the *Journal of Organic Chemistry* was devoted to this argument and collected a series of papers in the field.  One of the papers was short enough for this assignment. **Read the following paper**.
+
+B. Andes Hess, Lidia Smentek; "An Unusual Friedel–Crafts Reaction and Violation of the Markovnikov Rule in the Formation of an Adamantyl Arene." *Journal of Organic Chemistry*, **2025**, *90*, 5546–5549. [https://doi.org/10.1021/acs.joc.5c00215](https://doi.org/10.1021/acs.joc.5c00215)
+
 
 <hr>
 
@@ -25,25 +32,17 @@ I recommend that you attempt every problem at the end of appendix 5.
 
 This section describes the **deliverable** that you are to produce for this assignment. 
 
-After you complete all the questions assigned for the activity, you will have one **individual question** assigned for the report. **Write** a report that answers the **single question** from the table below according to the requirements described in the activity above. Your report will present the answer for the **one question** assigned to you by presenting the **step-by-step mechanism** with electron flow shown using arrows. Give it a title and be sure that your name is under the title. **Write a description** of the step-by-step mechanism using narrative text. **Justify** any choices you made with brief arguments. Do not use point form. Use professional tools (chemical drawing program, word processor, etc.) and submit the document in **PDF format**. 
+After you complete all the activity described above, you will **write a short report**. Write a report that describes, in general terms, the point of the assigned literature example. Then **describe what you need to learn** in this course to explore and discuss the paper in detail (or pass that imaginary exam). 
 
-**Take the last digit** of your student number. Use the table below to **match** that number to the **problem** that you are to include in your report. Even though you prepared just one answer from the data set, you are expected to **be able to discuss** any of the problems (you did do them **all**, didn’t you?).
-
-| Digit  | Problem |Digit  | Problem |
-| :----: | :-----: |:----: | :-----: |
-| 0      |   2D    |  5    | 2D      |
-| 1      |   2E    |  6    | 2E      |
-| 2      |   3B    |  7    | 3B      |
-| 3      |   3E    |  8    | 3E      |
-| 4      |   3H    |  9    | 3H      |
+Give your report a title, and be sure that your name is under the title. Write using a narrative style.  Do not use point form. Use any professional tools required (chemical drawing program, word processor, etc.) and submit the document in **PDF format**. 
 
 ```{admonition} A Note About Deliverables
 :class: dropdown
 The deliverable is what you ”deliver” to your instructor. Quite often **assignments** will have many activities to perform or questions to answer, but students will be assigned a subset of these to include in a **report**. Always **read the instructions** carefully. take note of what I want you to do (the activity) and what I want you to hand in to me (the deliverable). Use this information to give me what I want - the customer is always right.
 ```
-The report that you submit should be prepared **using a computer**. All structures presented should be made using a **chemical drawing program** such as *Chemdraw*, *Chemsketch* or *Marvin*. All of those programs can give you the curved arrows needed to express electron flow. Strive to make it look **professional**.
+The report that you submit should be prepared **using a computer**. Any structures presented should be made using a **chemical drawing program** such as *Chemdraw*, *Chemsketch* or *Marvin*. All of those programs can give you the curved arrows needed to express electron flow. Strive to make it look **professional**.
 
-**Submit your report via Moodle.** All assignment reports can be submitted using the corresponding link on the **Moodle page**. Click on the link and follow the instructions to submit your report. Only **PDF files** will be accepted.
+**Submit your report in PDF format via Moodle.** All assignment reports can be submitted using the corresponding link on the **Moodle page**. Click on the link and follow the instructions to submit your report. Only **PDF files** will be accepted.
 
 ```{admonition} A Note About Electronic Documents
 :class: dropdown
@@ -81,14 +80,14 @@ Always **read feedback** for assignment reports carefully and **use that informa
 
 ## A General Rubric
 
-Here is **what I look for** in a document that is awarded full marks. **Use these instructions for all reports and assignmants**. Other information will be given in the instructions for each assignment. 
+Here is **what I am looking for** in a document that is awarded full marks. **Use these instructions for all reports and assignmants**. Other information will be given in the instructions for each assignment. 
 
-- In descriptions of reactions, **the chemistry must be correct**. If a mechanism is asked to be presented, bond-forming/breaking reactions should include electron flow described by **curved-arrow notation**. Trivial proton transfers do not require curved arrows but you can use them if you wish.
-- Address obvious issues. e.g. "Why is the product always the *para* product when the *ortho* product is a possibility?" **Answer the questions** that pop up in your mind. Your reader will be asking the same questions. A major goal of this course is to build this essential skill.
-- The written discussion must be consistent with the instructions. It should be **clear and concise**. Use narative form, not point form. 
-- If I suggest that the text should be 300 words, I mean 300 words that matter. Stretching 100 words worth of information out to 300 words by repeating ideas and using flowery language will not receive full marks.  **Well-expressed ideas** are what I evaluate, not the length of a paragraph. 
+- Write a **brief description** of the point of the paper. use chemical structures if needed.
+- **Describe** any skill or knowledge that you need to develope in this course so that you could analyze a paper like the one that was assigned to you in great detail. Are there terms or concepts that you need to **learn** for the first time **or review** again? 
+- The writing must be consistent with the instructions. It should be **clear and concise**. Use narative form, not point form. 
+- I suggest that the text should be about **500 words**, but I mean 500 words that matter. Stretching 200 words worth of information out to 500 words by repeating ideas and using flowery language will not receive full marks.  **Well-expressed ideas** are what I evaluate, not the length of a paragraph. 
 - Your work must not contain gramatical errors. **Read it aloud** to yourself.
-- All **references** must be accessible via the UPEI library. If you use interlibrary loan you must be prepared to produce the reference. References that do not **exist** are an example of academic dihonesty. Your references **must** contain the information claimed. You may use any common style for **formatting** references but pick one style and stick with it. 
+- Any **references** must be accessible via the UPEI library. If you use interlibrary loan you must be prepared to produce the reference. References that do not **exist** are an example of academic dihonesty. Your references **must** contain the information claimed. You may use any common style for **formatting** references but pick one style and stick with it. 
 - **Attention to detail** is important. It is even more important in the real world.
 
 **Your work must be Boss-quality**. Your boss may be incuding your work in a larger document and you do not want to embarass her. Getting your boss promoted is the **best way** to get her job.
@@ -105,8 +104,8 @@ I find its generally faster to **write your own words** than to correct the work
 ## Learning Goals
 After completing this assignment you will have explored the following learning goals of lesson \#1&hellip;
 
-- Draw a reaction **mechanism** using curved arrows that describes a **transition state** for that reaction.
-- **Practiced** your **writing** skills and your **chemical communucation** skills.
+- Reading and interpretting **literature examples** in the field of organic chemistry
+- Being able to identify **what you need** to learn to accomplish a goal
 
 
 <hr>
