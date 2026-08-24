@@ -114,3 +114,33 @@ div.cell.tag_popout p.sidebar-title, div.cell.tag_margin p.sidebar-title, div.ma
     margin-bottom: 0.5rem;
     line-height: 1;
 }
+
+/* Reading Assignments */
+.admonition.reading {
+    border-left: 4px solid #1976d2;
+}
+
+.admonition.reading .admonition-title {
+    background-color: #e3f2fd;
+    color: #000000;
+}
+
+/* Study Tips */
+.admonition.study-tip {
+    border-left: 4px solid #83f288;
+}
+
+.admonition.study-tip .admonition-title {
+    background-color: #c7f6cb;
+    color: #000000;
+}
+
+/* Danger */
+.admonition.danger {
+    border-left: 4px solid #f44336;
+}
+
+.admonition.danger .admonition-title {
+    background-color: #fec6a9;
+    color: #000000;
+}

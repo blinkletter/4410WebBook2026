@@ -1,4 +1,4 @@
-# Assignment \#0: Mechanism Review
+# Assignment \#0: Self Assessment
 
 **Due** to be uploaded to Moodle by 9:00AM on the day of class meeting \#2 (that's almost tomorrow!)
 
@@ -17,13 +17,14 @@ This section describes the **activity** that you are to perform for the assignme
 - **Read** the assigned paper (see below) from the recent literature as best you can. Don't worry if there is terminology or concepts with which you are unfamiliar. 
 - **Imagine** that I plan to base the whole final exam for this course on this paper. **What questions** might a crusty old professor ask? I often have a nightmare where I walk into a room and find that I have arrived at the final exam for a course that I did not know I was enrolled in. I wake up in terror! Imagine that you just entered that room, and the final exam was this paper. 
 - **Take note** of anything that is new to you, that you do not understand, or that you feel you need more practice with. We need to make a plan so we can sepnd the rest of this course **getting you ready** for that final exam.
+- **Don't look anything up.** Try to use only the knowledge in your head. You are writing a list of things that you need to look up. Even if you know you know something, but can't remember it at the moment, include it in your list. Use this exercise to **assess you personal knowledge**.  
 <hr>
 
 ## The Literature
 
 Physical organic chemists spend a lot of energy arguing that the field is still relevant. A recent issue of the *Journal of Organic Chemistry* was devoted to this argument and collected a series of papers in the field.  One of the papers was short enough for this assignment. **Read the following paper**.
 
-B. Andes Hess, Lidia Smentek; "An Unusual Friedel–Crafts Reaction and Violation of the Markovnikov Rule in the Formation of an Adamantyl Arene." *Journal of Organic Chemistry*, **2025**, *90*, 5546–5549. [https://doi.org/10.1021/acs.joc.5c00215](https://doi.org/10.1021/acs.joc.5c00215)
+B. Andes Hess, Lidia Smentek; "An Unusual Friedel–Crafts Reaction and Violation of the Markovnikov Rule in the Formation of an Adamantyl Arene." *Journal of Organic Chemistry*, **2025**, *90*, 5546–5549. [https://doi.org/10.1021/acs.joc.5c00215](https://doi.org/10.1021/acs.joc.5c00215) Open Access
 
 
 <hr>
@@ -96,7 +97,7 @@ Here is **what I am looking for** in a document that is awarded full marks. **Us
 :class: dropdown
 I have no objection to using the modern **AI systems** to get inspiration. However, you must **stand behind your work** that you submit. If you use an AI system for a portion of your document then you must become a copy editor. **Word salad** will be heavily penalized. Text that **circles** around a subject and never "gets there" is not useful. **Pointless sentences** or phrases that increase word count but **add nothing** else will be penalized. The goal is always to achieve **high information density** in your technical writing. No one has time to read words that don't advance the project.  
 
-I find its generally faster to **write your own words** than to correct the work of a machine. You will have to **fact check** everything carefully if you do not start with the facts. ***Wrong*** statements are **wrong**. Some might call them **halucinations**, others might call them **lies**. When you become a professional, presenting careless and embarassing **errors of fact** will harm your career (unless you are in politics.) 
+I find its generally faster to **write your own words** than to correct the work of a machine. You will have to **fact check** everything carefully if you do not start with the facts. ***Wrong*** statements are **wrong**. Some might call them **halucinations**, others might call them **lies**. When you become a professional, presenting careless and embarassing **errors of fact** will harm your career (unless you are in politics.) And remember, everyone who has to spend a portion of a day reading something will always **be offended** if an author spent just a few minutes having a **machine** generate the words and is expecting the reader to do the fact checking and copy editing. Don't be that author; be your own author.
 ```
 
 <hr>

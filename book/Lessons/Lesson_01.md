@@ -37,7 +37,7 @@ The information for each of these **class meetings** can be accessed directly by
 
 ### Assignments
 
-Each lesson includes one or more assignments. **Check the page** for the assignment for this lesson. Check the **due date** and make a plan so that you can complete the assignment with time to spare.
+Each lesson includes one or more assignments. **Check the pages** for the assignments in this lesson. Check the **due dates** and make a plan so that you can complete the assignment with time to spare.
 
 ```{admonition} Check Due Dates Using Moodle
 :class: dropdown
@@ -45,8 +45,15 @@ The **Moodle page** will have a link for uploading each assignment. **Due dates*
 ```
 
 
+0. **Assignment \#0: A First Self Assessment**
+    - You will read a very short paper and assess what you need to learn to fully understand, analyze and criticize the work.
 1. **Assignment \#1: Mechanism Review**
     - This assignment will **review** organic chemistry skills.
+
+```{admonition} Why did the List Start at Zero?
+:class: dropdown
+Perhaps because I went to graduate school in Montréal where buildings start with a **ground floor** and the next floor up is the **first floor**? Perhaps because we will be using some ***Python tools*** to analyze and present data? All *Python* numbering starts at position zero. The next item is at position one, etc. Perhaps because I added an assignment at the beginning, and **I was too lazy** to renumber the whole list? These scenarios are hypotheses. What experiments would you design to test these hypotheses?
+```
 
 <hr>
 
@@ -142,6 +149,12 @@ The following **resources** are not available in the class meeting pages but are
 ### More Free Texbooks
 
 There are **free online textbooks** from academic publishers and societies available. Check these out.
+
+```{admonition} Danger: Possible Broken Links Ahead
+:class: dropdown danger
+The internet is like the sea: it always looks the same but it is always different. The **links** to external materials in the course **can break** at any time: the address may change, the resource might dissappear entirely, paywalls might rise, subscription access may fall. Please **let me know about any broken links** or other access problems so that I can keep this web book as current as possible. 
+```
+
 
 - [**Virtual Textbook of Organic Chemistry**](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/intro1.htm) \[Web\] This is a link to the free textbook by William Reusch. It is a serviceable overview of organic chemistry and it is free. 
 - [**The Investigation of Organic Reactions and Their Mechanisms**](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/9780470988671) \[Web\] This collection of chapters edited by Howard Maskill is an excellent companion to our textbook. It features many topics of physical organic chemistry. It is available for free to UPEI students.

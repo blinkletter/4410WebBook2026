@@ -10,10 +10,11 @@ exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoin
 # Auto-exclude files not in the toc
 only_build_toc_files        : false
 
-#sphinx:
-#  config:
+sphinx:
+  config:
 #    html_theme: default
-
+    html_css_files:
+      - tufte.css
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
