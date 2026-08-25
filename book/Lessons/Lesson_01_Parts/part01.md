@@ -12,7 +12,7 @@ For this initial meeting in the course I would like you to **come prepared** to 
 Before a class meeting, you should do the **recommended reading** in advance. Arriving **prepared** will help you to ask questions that are most helpful for you and your classmates. The **recommended reading** below is related to the topics that we will discuss in this meeting. 
 ```
 
->  **Read** the [**preface of your textbook (pages xxiii to xxiv)**](https://uscibooks.aip.org/wp-content/uploads/adfm_new.pdf) \[Web\]. This is a nice argument for why you should be taking this course. Eric Anslyn and Dennis Dougherty try to convince us the physical organic chemistry is not just for the old folks, its principles continue to inform all advances in chemistry to this very day. <br><br>
+>  **Read** the [**preface of your textbook (pages xxiii to xxiv)**](../Lesson_01/adfm_new.pdf) \[PDF\]. This is a nice argument for why you should be taking this course. Eric Anslyn and Dennis Dougherty try to convince us the physical organic chemistry is not just for the old folks, its principles continue to inform all advances in chemistry to this very day. <br><br>
 **Read** "Six Pillars of Organic Chemistry." Joseph J. Mullins, *Journal of Chemical Education*, **2008**, *85*, 83-97. [**https://doi.org/10.1021/ed085p83**](https://doi.org/10.1021/ed085p83) \[Web\]. I will be arguing that all of these pillars are the domain of physical organic chemistry. 
 
 ```{admonition} A Note on That "Gray Box"
