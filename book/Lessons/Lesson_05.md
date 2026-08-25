@@ -68,7 +68,6 @@ In the **examples** chosen for this lesson, we will see use our **knowledge** of
 
 Each lesson includes one or more assignments. **Check the page** for the assignment for this lesson. Check the **due date** and make a plan so that you can complete the assignment with time to spare.
 
-7. **Note: Assignment 7 has been cancelled**
 
 8. **Assignment \#8**
     - The **personal exploration report** will be due at the end of his course. This assignment will serve as the official **starting point**. You will **submit** a literature contribution that you plan to use as the centrepiece of your exploration, and **write** a short overview of the topic, why you chose it and where you plan to go with it.

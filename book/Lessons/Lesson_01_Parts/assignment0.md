@@ -24,7 +24,7 @@ This section describes the **activity** that you are to perform for the assignme
 
 Physical organic chemists spend a lot of energy arguing that the field is still relevant. A recent issue of the *Journal of Organic Chemistry* was devoted to this argument and collected a series of papers in the field.  One of the papers was short enough for this assignment. **Read the following paper**.
 
-B. Andes Hess, Lidia Smentek; "An Unusual Friedel–Crafts Reaction and Violation of the Markovnikov Rule in the Formation of an Adamantyl Arene." *Journal of Organic Chemistry*, **2025**, *90*, 5546–5549. [https://doi.org/10.1021/acs.joc.5c00215](https://doi.org/10.1021/acs.joc.5c00215) Open Access
+> B. Andes Hess, Lidia Smentek; "An Unusual Friedel–Crafts Reaction and Violation of the Markovnikov Rule in the Formation of an Adamantyl Arene." *Journal of Organic Chemistry*, **2025**, *90*, 5546–5549. [https://doi.org/10.1021/acs.joc.5c00215](https://doi.org/10.1021/acs.joc.5c00215) Open Access
 
 
 <hr>
@@ -65,17 +65,6 @@ What kind of report would you hand to your boss? She will forgive your mistakes,
 
 See the **rubric** in the next section for a **general guide** to how assignments will be graded. That rubric will **apply** to all assignments in addition to any instructions given here. **In this assignment**, half of the grade will be for your **answer** and half will evaluate how neat, **clear and professional** your work is. **Quality writing** is important. Feel free to use a chemical drawing program. Any details required will be given with each assignment.
 
-Examine this [**sample assignment report**](../Lesson_01/Sample_Assignment_Presentation.odt.pdf) \[PDF\]. It is a sample of what I would expect for an assignment report. Observe that it was created in the LibreOffice word processor and includes chemical schemes that were made using the MarvinSketch chemical drawing program. Both are free programs that run on most types of computer.
-
-``` {admonition} How I Graded the Sample Report
-:class: dropdown
-**I gave myself an 8.5/10** for that [**sample assignment report**](../Lesson_01/Sample_Assignment_Presentation.odt.pdf) \[PDF\]. I was unsatisfied with the analysis of the reaction. There was no explanation for **why** we observe the product of &beta;-addition and not the product for the addition to the much more reactive carbonyl group. The resulting hemi-acetal product of addition to the carbonyl group is not stable under acidic conditions. Addition to the carbonyl is reversible while &beta;-addition is not. This is an excellent example of the **principle of thermodynamic vs kinetic control** in a reaction. 
-
-I will take the feedback and use it to **improve** my next assignment report. I need to **think** more **critically** when writing. Learning is a **journey**, and the exercise of submitting **writing** and receiving **feedback** will help me to build up my communications skills. 
-
-Always **read feedback** for assignment reports carefully and **use that information** to give me what I want. Everyone tells me that students can't write anymore. I believe that I must stop accepting that stereotype and **do the work** to improve student writing. I commit to put the effort in by carefully and critically picking your work apart. **I challenge you** to put the same effort in when you make a document. Pick it apart yourself and put it back together better. And every time you do that, make it a little bit shorter. If it gets too short, then add **ideas** and not more words.
-
-```
 
 <hr>
 

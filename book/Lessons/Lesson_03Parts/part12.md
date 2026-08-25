@@ -79,4 +79,3 @@ The following notebooks present the code and data analysis for the handout discu
 - [**Figure 6**](../../notebooks/M12_Handout_Comments/Table_5_Plots.ipynb): Hammett plots for hydrolysis of benzyl chloride in different solvent mixtures and temperatures.
 - [**Figure 7:**](../../notebooks/M12_Handout_Comments/Table_6_Plots.ipynb): Hammett plots for solvolysis of diphenylmethylene chloride.
 - [**Figure 9**](../../notebooks/M12_Handout_Comments/Table_7_Plots.ipynb): : Hammett plots for solvolysis of trityl acetate.
-- 

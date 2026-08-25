@@ -11,6 +11,7 @@ Below is a list of topics and the corresponding textbook chapters.
 |6	      |        |Break Week	                                               |                          |
 |8	      |   **4**       |Test #1 \& Isotope Effects                 	           | Ch. 8|
 |9 \& 10  |   **5**       |Exploration of Substitution and Rearrangement Mechanisms  | Ch. 11 \& literature |
+|          |               | **All Topics Below Can be Changed. What do You Want?**   |                          |
 |11 \& 12  |   **6**       |Exploration of Additions and Elimination Mechanisms	\& Test #2   | Ch. 10 \& literature |
 |13       |   **7**       | Exploration of Pericyclic Reactions	           | Ch. 15 \& literature |
 |14       |   **8**     | Review and Wrap-up                         | literature |
@@ -120,11 +121,11 @@ Below is a plan for the **assessments** in this course. there are **assignments*
 | 4         | Meeting 11 | 9AM Oct. 5      | Acid/base catalysis and Brønsted plots                 |  4\%             |
 | 5         | Meeting 13 | 9AM Oct. 9      | Hammett plots                                          |  4\%             |
 |           | **Break Week** |             |                                                        |                  |
-| 6         | Meeting 18 | 9AM Oct. 23     | Transition state structure                             |  4\%             |
-|  **Test \#1** |        | Oct. 26         | Test \#1 covers meetings 1 to 16                       |  15\%            |
+|  **Test \#1** | Meeting 17 | Oct. 26         | Test \#1 covers meetings 1 to 16                       |  15\%            |
+| 6         | Meeting 19 | 9AM Oct. 30     | Transition state structure                             |  4\%             |
 | 7         | Meeting 24 | 9AM Nov. 13     | Data analysis and mechanism interpretation             |  4\%             |
 | 8         | Meeting 26 | 9AM Nov. 18     | Personal exploration proposal                          |  4\%             |
-|  **Test \#2** |        | Nov. 23         | Test \#2 covers meetings 18 to 27                      |  15\%            |
+|  **Test \#2** | Meeting 28  | Nov. 23         | Test \#2 covers meetings 18 to 27                      |  15\%            |
 | 9         | Meeting 30 | 9AM Nov. 27     | Data analysis and mechanism interpretation             |  4\%             |
 | 10        | Meeting 33 | 9AM Dec. 4      | First draft of literature exploration                  |  4\%             |
 | **Report**  | Meeting 35 | 9AM Dec. 9    | Submit final personal exploration report               |  20\%            |

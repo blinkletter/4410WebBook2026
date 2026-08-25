@@ -3,7 +3,7 @@
 
 title                       : Physical Organic Chemistry  # The title of the book. Will be placed in the left navbar.
 author                      : Barry Linkletter  # The author of the book
-copyright                   : "2025"  # Copyright year to be placed in the footer
+copyright                   : "2026"  # Copyright year to be placed in the footer
 logo                        : PhysOrg.png  # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", README.md]
@@ -34,7 +34,7 @@ latex:
 
 # Information about where the book exists on the web
 # NOTE: the github site is a public repository for the python notebooks. It does not caontain the book, only the notebooks.
-#       The book is in the https://github.com/blinkletter/Chem4410Webbook repository, which is private.
+#       The book is in the https://github.com/blinkletter/4410WebBook2026 repository, which is private.
 repository:
   url: https://github.com/blinkletter/4410PythonNotebooks # Online location of your book
   path_to_book: /book  # Optional path to your book, relative to the repository root

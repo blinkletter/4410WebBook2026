@@ -124,9 +124,9 @@ You do not have to learn *Python* -- but you do need to learn what it can **make
 
 ###  Truth and Reconcilliation Day
 
-This year it will not impact our class as it falls on a Tuesday,  however **Truth & Reconcilliation Day** is not a holiday. Time to do the work.
+This year it will impact our class as it falls on a Wednesday,  however **Truth & Reconcilliation Day** is not a holiday. Time to do the work.
 
-I suggest that you complete the assigned reading and think about how our shared past affects our present and our future.
+I suggest that you complete the following reading and think about how our shared past affects our present and our future.
 
 - **Read "[Where are the Children Buried?](https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/05/AAA-Hamilton-cemetery-FInal.pdf)"** \[Web\] available from the [**National Centre of Truth and Reconcilliation**](https://nctr.ca/) \[Web\].
 
