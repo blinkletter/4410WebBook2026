@@ -5,6 +5,12 @@ Our first meeting will introduce the course and start us thinking about structur
 <hr>
 
 ## Before
+
+```{admonition} A Note on Before
+:class: dropdown
+The "Before" section will be part of every class meeting. This is work that you should **do before coming to class**. It will usually be some **reading** from the literature or the textbook. Arriving with ideas and questions will enable you to **get the most** out of each brief 50-minute class meeting. Our meetings are not long enough that we can start from scratch; let's **build up some speed** before hitting the starting line.
+```
+
 For this initial meeting in the course I would like you to **come prepared** to discuss the idea of "what is physical organic chemistry? In future class meeting you should read the recommended material before you arrive. The below material, for our first meeting, is best read before but can be read afterwards. 
 
 ```{admonition} A Note on Assigned Reading
@@ -15,22 +21,29 @@ Before a class meeting, you should do the **recommended reading** in advance. Ar
 >  **Read** the [**preface of your textbook (pages xxiii to xxiv)**](../Lesson_01/adfm_new.pdf) \[PDF\]. This is a nice argument for why you should be taking this course. Eric Anslyn and Dennis Dougherty try to convince us the physical organic chemistry is not just for the old folks, its principles continue to inform all advances in chemistry to this very day. <br><br>
 **Read** "Six Pillars of Organic Chemistry." Joseph J. Mullins, *Journal of Chemical Education*, **2008**, *85*, 83-97. [**https://doi.org/10.1021/ed085p83**](https://doi.org/10.1021/ed085p83) \[Web\]. I will be arguing that all of these pillars are the domain of physical organic chemistry. 
 
-```{admonition} A Note on That "Gray Box"
+```{admonition} A Note on the "Gray Boxes"
 :class: dropdown
 Items on the lesson pages and the class meeting pages that are **highlighted in the grey box**, as seen above, are **required**. If the gray box is in the *Before* section then the reading should be **completed before** the class meeting. Other activities, readings and exercises may be suggested but the gray boxes are **required**. The class will be more challenging if you do not **come prepared** for a class.
 ```
 
-- **Read** "Physical Organic Chemistry in the 21st Century: A Q1 Progress Report." H.I. Williams, *Chemistry International*, **2022**, *44*, 10-13. [**https://doi.org/10.1515/ci-2022-0203**](https://doi.org/10.1515/ci-2022-0203) \[Web\]. This is a **recent argument** for why physical organic chemistry remains relevant and essential. It is a commentary on the 25 years since a famous themed issue was published of the journal *Pure and Applied Chemistry* that [**surveyed, commemorated and celebrated**](https://www.degruyterbrill.com/journal/key/pac/69/2/html) \[Web\] the field at the end of the last millenium.
+- **Read** "Physical Organic Chemistry in the 21st Century: A Q1 Progress Report." H.I. Williams, *Chemistry International*, **2022**, *44*, 10-13. **[https://doi.org/10.1515/ci-2022-0203](https://doi.org/10.1515/ci-2022-0203)** \[Web\]. This is a **recent argument** for why physical organic chemistry remains relevant and essential. It is a commentary on the 25 years since a famous themed issue was published of the journal *Pure and Applied Chemistry* that **[surveyed, commemorated and celebrated](https://www.degruyterbrill.com/journal/key/pac/69/2/html)** \[Web\] the field at the end of the last millenium.
 
 ```{admonition} A Note on Links to Journals
 :class: dropdown
 I will try to only ask you to read journal articles to which UPEI has **subscription access**. However, you may find many of these links only work on campus. So you will want to **plan ahead** and download any journal articles while you are on campus. Many journals are "open access", but many are not. Sometimes you will come across an article to which UPEI does not have access; journal access can change unexpectedly. **Make a librarian's day** by asking for help. Please let me know if a reference that I have assigned is no longer available via the UPEI library.
 ```
 
-Speaking of that commemorative issue of *Pure and Applied Chemistry* to which a link is available above: I have selected some papers and provided links in the Extra Literture Resources section below. I hope that you will find inspiration in these articles and others in the 1997 self-affirmation effort of physical organic chemists.
+%Speaking of that commemorative issue of *Pure and Applied Chemistry*, to which a link is available above, I have selected some papers and provided links in the **[Extra Literature Resources](#Extra-Literature-Resources)** section below. I hope that you will find inspiration in these articles and others in the 1997 self-affirmation exercise of physical organic chemists.
 <hr>
 
 ## During
+
+```{admonition} A Note on During
+:class: dropdown
+The "During" section will be part of every class meeting. This is **what we will be doing** in the short class meeting. It will usually have a **handout** (all handouts will be printed and brought to class by the instructor) and any resources or commentary documents that support the **activities** described in the handout (these are for your own information). Even though "During" comes after "Before", I recommend that students read the "During" section before arriving at the class meeting. We will be up to speed and its always good to know what is ahead when you are moving fast.
+```
+
+
 Our first class will be a **welcome** and we will become familiar with the machinery of the course: the **Moodle site**, the **syllabus**, how things will work in class, etc. 
 
 We will try to **define** what is meant by the words "physical organic chemistry." We will also consider how physical changes (conformation) can affect chemistry using the example of **conformational analysis** from your 2<sup>nd</sup>-year chemistry. 
@@ -57,6 +70,12 @@ Often there will be **additional material** available. This may be a written ver
 
 ## After
 
+```{admonition} A Note on After
+:class: dropdown
+The "After" section will be part of every class meeting. This is work you should do **soon after** the class meeting to reinforce what was discussed. It will include **textbook problems** and other problems to try. **Practice** is what teaches, not reading or talking. And practice is entirely up to you. After each class, read this section and **make a plan** to act on these suggestions before the end of the day. 
+```
+
+
 For this first meeting there is nothing to **prepare** ahead of time. The above **reading** is required, but you just got here. So, if you don't read it before class please be sure to read it afterwards. 
 
 Generally the thing to do **after** a class meeting is to immediately check the information for the following class meeting to see what you need to read and do in order to **be prepared**. Often this section will include optional exercises, extra resources or just fun stuff that enriches the subject.
@@ -73,6 +92,11 @@ After reading the suggested textbook sections and participating in class, attemp
 :class: dropdown
 **Suggested problems** may be present in the **before, during or after** sections of a class meeting. If they appear in a gray box I will be relying on you to attempt those problems (usually in the before class section). Otherwise they are strongly suggested. There will be **no surprises** on tests and the final exam for students who practice the **suggested problems** from the textbook or the class handouts. You will be better prepared for assessments by participating fully in the activities of each class meeting and that includeds the suggested problems.
 ```
+
+Now is the time to start working on the assignment for this lesson. 
+
+> **[Assignment #0](assignment0.md)**: Go to the assignment page for this lesson and follow the instructions.
+
 
 
 <hr>
@@ -129,6 +153,7 @@ You should have access to the textbook to succeed in this course.  [Information 
 - [**McMurry's Organic Chemistry**](https://openstax.org/details/books/organic-chemistry) \[Web\] This is a **professionally edited** textbook that was used by millions of organic chemistry students over the past three decades. The latest edition has been made **freely available** by the author as a **gift to humanity**. Read the preface to learn the tragic story that inspired this act of generousity.
 - [**Organic Chemistry: An Intermediate Text**](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/0471648736) \[Web\] This is an excellent book for reviewing your chem 3420 experience and for furthering your organic chemistry skills. It is fairly **short and to the point**. It is available for free to UPEI students via the UPEI library.
 
+(Extra-Literature-Resources)=
 ### Extra Literature Resources
 
 Physical organic chemists clearly need a lot of validation. Here are some published examples.

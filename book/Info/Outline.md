@@ -11,7 +11,7 @@ Below is a list of topics and the corresponding textbook chapters.
 |6	      |        |Break Week	                                               |                          |
 |8	      |   **4**       |Test #1 \& Isotope Effects                 	           | Ch. 8|
 |9 \& 10  |   **5**       |Exploration of Substitution and Rearrangement Mechanisms  | Ch. 11 \& literature |
-|          |               | **All Topics Below Can be Changed. What do You Want?**   |                          |
+|          |               | **All topics below can be changed. What do you want?**   |                          |
 |11 \& 12  |   **6**       |Exploration of Additions and Elimination Mechanisms	\& Test #2   | Ch. 10 \& literature |
 |13       |   **7**       | Exploration of Pericyclic Reactions	           | Ch. 15 \& literature |
 |14       |   **8**     | Review and Wrap-up                         | literature |
@@ -70,9 +70,9 @@ Below is a proposed plan for the course this year. **This will change** as I get
 | **2** | 6     | Sept. 21 | Bronsted acid/base theory and acidity functions              | Ch. 5.1, 5.2, 5.3   |
 |       | 7     | Sept. 23 | Structure effects on acid equilibrium                        | Ch. 5.4 |
 |    | 8    | Sept. 25 | Review of reaction kinetics and catalysis. Acid/base catalysis | Ch. 7.4, 7.5, 7.6, 9.1, 9.2 |
-|       | 9     | Sept. 28 | pH-rate profiles                                           | Ch.  9.2, 9.3            |
+|       | 9    | Oct. 2 |  Bronsted plots                                              | Ch. 8.5, 9.3             |
 |       |       | Sept. 30 | **No Class** National Reconciliation Day                   |                   |
-|       | 10    | Oct. 2 |  Bronsted plots                                              | Ch. 8.5, 9.3             |
+|       | 10     | Sept. 28 | pH-rate profiles                                           | Ch.  9.2, 9.3            |
 | **3** | 11    | Oct. 5 |  LFER: Inductive substituent effects.                        | Ch. 8.2, 8.3             |
 |       | 12    | Oct. 7   |  Resonance substituent effects                             |  Ch. 8.2, 8.3            |
 |       | 13    | Oct. 9  |  Interpreting Hammett plots                                 |  Ch. 8.2, 8.3            |
@@ -89,7 +89,7 @@ Below is a proposed plan for the course this year. **This will change** as I get
 |       | 23    | Nov. 9   |  Example exploration: Non-classical cations                | Ch. 11.5, 14.5, lit.     |
 |       |       | Nov. 11   |  **No Class** Remembrance Day                             |      |
 |       | 24    | Nov. 13   |  Example exploration: Non-classical cations               | Ch. 11.5, 14.5, lit.  |
-|       |       |          |  **All Topics Below Can be Changed. What do You Want?**    |               |
+|       |       |          |  **All topics below can be changed. What do you want?**    |               |
 | **6** | 25    | Nov. 16  |  Examples of pH-rate profile for aspirin                   | Ch. 9.1 to 9.3, 10.17, lit. |
 |       | 26    | Nov. 18  |  Examples of acetal formation/hydrolysis                   | Ch. 10.2, 10.12, lit.     |
 |       | 27    | Nov. 20  |  Examples of electrophilic addition to alkenes or alkynes  | Ch. 10.1, 10.3 to 10.5, lit.|
@@ -115,19 +115,19 @@ Below is a plan for the **assessments** in this course. there are **assignments*
 
 |Assignment |Due Before  | Due on Date     | Objective                                              |  Grade           |
 | :----:    | :----      | :----           | :---------------------------------------               | :------          |
-| 1         | Meeting 2  | 9AM Sept. 11    | First literature exploration \& Learning Plan          |  4\%             |
-| 2         | Meeting 5  | 9AM Sept. 18    | Organic chemistry review                               |  4\%             |
-| 3         | Meeting 8  | 9AM Sept. 25    | Dogma of physical organic chemistry                    |  4\%             |
-| 4         | Meeting 11 | 9AM Oct. 5      | Acid/base catalysis and Brønsted plots                 |  4\%             |
-| 5         | Meeting 13 | 9AM Oct. 9      | Hammett plots                                          |  4\%             |
+| 0         | Meeting 2  | 9AM Sept. 11    | First literature exploration \& Learning Plan          |  4\%             |
+| 1         | Meeting 5  | 9AM Sept. 18    | Organic chemistry review                               |  4\%             |
+| 2         | Meeting 8  | 9AM Sept. 25    | Dogma of physical organic chemistry                    |  4\%             |
+| 3         | Meeting 11 | 9AM Oct. 5      | Acid/base catalysis and Brønsted plots                 |  4\%             |
+| 4         | Meeting 13 | 9AM Oct. 9      | Hammett plots                                          |  4\%             |
 |           | **Break Week** |             |                                                        |                  |
 |  **Test \#1** | Meeting 17 | Oct. 26         | Test \#1 covers meetings 1 to 16                       |  15\%            |
-| 6         | Meeting 19 | 9AM Oct. 30     | Transition state structure                             |  4\%             |
-| 7         | Meeting 24 | 9AM Nov. 13     | Data analysis and mechanism interpretation             |  4\%             |
-| 8         | Meeting 26 | 9AM Nov. 18     | Personal exploration proposal                          |  4\%             |
+| 5         | Meeting 19 | 9AM Oct. 30     | Transition state structure                             |  4\%             |
+| 6         | Meeting 24 | 9AM Nov. 13     | Data analysis and mechanism interpretation             |  4\%             |
+| 7         | Meeting 26 | 9AM Nov. 18     | Personal exploration proposal                          |  4\%             |
 |  **Test \#2** | Meeting 28  | Nov. 23         | Test \#2 covers meetings 18 to 27                      |  15\%            |
-| 9         | Meeting 30 | 9AM Nov. 27     | Data analysis and mechanism interpretation             |  4\%             |
-| 10        | Meeting 33 | 9AM Dec. 4      | First draft of literature exploration                  |  4\%             |
+| 8         | Meeting 30 | 9AM Nov. 27     | Data analysis and mechanism interpretation             |  4\%             |
+| 9        | Meeting 33 | 9AM Dec. 4      | First draft of literature exploration                  |  4\%             |
 | **Report**  | Meeting 35 | 9AM Dec. 9    | Submit final personal exploration report               |  20\%            |
 
 %| 6        | Meeting 22   | 9AM Oct. 29   | Isotope effect                                         |  3\%           |

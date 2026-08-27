@@ -6,11 +6,14 @@ On the way from **here to there**, you will find yourself **in-between**. What d
 
 ## Before
 
-> The **assignment is due** before class.  So be sure to have uploaded your PDF file to moodle. See the **assignment page** for this lesson for **instructions**.
-
 Chapter 7 of the textbook will serve as a good review of **reaction kinetics and transition state theory**. We now will be exploring the idea of **multiple reaction coordinates** that can be used to describe an **energy surface** for a reaction. I believe that this is the **first new topic** of the course for most of you. We're on our way now.
 
 > **Read** Chapter 7.1, 7.2, 7.3 \& 7.8 of the textbook
+
+Don't forget about the assignment.
+
+> The **[Assignment \#1](assignment1.md) is due** before class.  So be sure to have uploaded your PDF file to moodle. See the **assignment page** for this lesson for **instructions**.
+
 
 <hr>
 

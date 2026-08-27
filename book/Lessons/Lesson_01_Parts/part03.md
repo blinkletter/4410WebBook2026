@@ -33,6 +33,9 @@ Here is a commentary of some selected problems in the handout. We can't review t
 
 There is **no activity** suggested for after this class. Please take the **opportunity** to move forward with you **reading** and the **assignment**.
 
+> Start **[Assignment \#1](assignment1.md)** soon.  Give yourself enough **time** to complete it and then forget it, so that when you **proofread** it, you can catch all your mistakes.
+
+
 <hr>
 
 ## Learning Goals

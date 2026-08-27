@@ -10,6 +10,11 @@ Before arriving for the class meeting do the following (remember, grey boxes are
 
 > **Read** chapter 1.1, 1.2, 2.1 \& 2.4 of the textbook
 
+And don't forget about your first assignment.
+
+> The **[Assignment \#0](assignment0.md) is due** before class.  So be sure to have uploaded your PDF file to moodle. See the **assignment page** for this lesson for **instructions**.
+
+
 <hr>
 
 ## During
@@ -34,9 +39,6 @@ After our class exercises, I highly recommend that you try the following problem
 
 - **Problems**: Chapter 1, problems 1, 2, 3, 4, 5 \& 6.
 
-Now is the time to start working on the assignment for this lesson. 
-
-> **Assignment #1**: Go to the assignment page for this lesson and follow the instructions.
 
 <hr>
 
@@ -57,7 +59,7 @@ The following **resources** may be useful.
 - [**Molecular Orbital Tutorial**](../Lesson_01/27-Molecular_Orbital_Tutorial2_RC2.pdf) \[PDF\]
 I wrote this many years ago for my physical organic students. This tutorial outlines the "new math" that I use to construct molecular orbitals from atomic orbitals. It all boils down to "adding two blobs together gives you a bigger blob with lower energy."
 - [**That Arrhenius 'A' Value**](../Lesson_02/08-Arrhenius.pdf) \[PDF\] If the log of pre-exponential value is greater than 13 we expect a positive value for $\Delta S^\ddagger$ and vice versa. How was this determined? This brief exploration will explain.
-- [**An Anomeric Effect Handout**](../Lesson_01/06-Stereoelectronic_Effects.pdf) \[PDF\] In other years, we sometimes had time during this first lesson to discuss the anomeric effect in detail. Not this year - although we can return to this idea in the second half of the course if you make a request. This document is the handout for a class meeting exploring the anometic effect.
+- [**An Anomeric Effect Handout**](../Lesson_01/06-Stereoelectronic_Effects.pdf) \[PDF\] In other years, we sometimes had time during this first lesson to discuss the anomeric effect in detail. Not this year - although we can return to this idea in the second half of the course if you make a request. This document is the handout for a past class meeting exploring the anomeric effect.
 
 ### From the Literature
 
