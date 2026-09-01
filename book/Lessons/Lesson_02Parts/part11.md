@@ -17,7 +17,7 @@ We will explore the example of **phenyl acetate hydrolysis**. We will derive the
 
 In class we will be using the following handout to guide our discussion.
 
->  **Handout**: The handout that will be made available in class can also be accessed [**here**](../Lesson_02/4410_Handout_10.pdf) \[PDF\]. This will be given to students in class. There is no need to print a copy.
+>  **Handout**: The handout that will be made available in class can also be accessed [**here**](../Lesson_02/4410_Handout_11.pdf) \[PDF\]. This will be given to students in class. There is no need to print a copy.
 
 <hr>
 
@@ -53,6 +53,7 @@ I have used **other discussions** in this class meeting **in the past**. They ma
 The following ***Jupyter* notebooks** are made available below via *Google* Colab. I may use some of these for calculations during the class meeting. 
 
 - **pH-rate Profiles in Ester and Carbonate Hydrolysis**: The notebooks below provide the code and data analysis for the corresponding exploration described above.
+    - [**Code from Handout**](../../notebooks/M10_Ester_Carbamate_pH-Rate_Profile/calcs.ipynb) \[via Colab\] This is the code presented in the handout.
     - [**Figures 5 to 10**](../../notebooks/M10_Ester_Carbamate_pH-Rate_Profile/pH-RateProfileEsters_MoreData.ipynb) \[via Colab\] Plots of pH-rate profiles for carbonates.
     - [**Figure 2**](../../notebooks/M10_Ester_Carbamate_pH-Rate_Profile/pH-RateProfileEsters-FancyPlots.ipynb) \[via Colab\] Plots of pH-rate profiles for diclofenac esters.
 - [**The Changing Value of $K_w$**](../../notebooks/M10_Water_Ion_Product/water_ion_product.ipynb) \[via Colab\] This notebook produced the plots, interpolations and data analysis in the document exploring **Changing Value of $K_w$** vs temperature described above.

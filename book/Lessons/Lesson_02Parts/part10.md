@@ -18,7 +18,7 @@ We will explore the Brønsted plot and interpret data sets to propose mechanisms
 
 In class we will be using the following handout to guide our discussion. You should **read the handout before the meeting and be prepared to participate** in the described activities and discussion.
 
->  **Handout**: The handout that will be made available in class can also be accessed [**here**](../Lesson_02/4410_Handout_11.pdf) \[PDF\]. This will be given to students in class. There is no need to print a copy.
+>  **Handout**: The handout that will be made available in class can also be accessed [**here**](../Lesson_02/4410_Handout_10.pdf) \[PDF\]. This will be given to students in class. There is no need to print a copy.
 
 <hr>
 
