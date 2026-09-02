@@ -15,14 +15,14 @@ Each lesson has one or more **assignments**. You will always have at least 3 ful
 This section describes the **activity** that you are to perform for the assignment. Be sure to do all the activities in an assignment, even the ones not required for the deliverable. They are there for a reason. Do the following&hellip;
 
 - **Read** the assigned paper (see below) from the recent literature as best you can. Don't worry if there is terminology or concepts with which you are unfamiliar. 
-- **Imagine** that I plan to base the whole final exam for this course on this paper. **What questions** might a crusty old professor ask? I often have a nightmare where I walk into a room and find that I have arrived at the final exam for a course that I did not know I was enrolled in. I wake up in terror! Imagine that you just entered that room, and the final exam was this paper. 
-- **Take note** of anything that is new to you, that you do not understand, or that you feel you need more practice with. We need to make a plan so we can sepnd the rest of this course **getting you ready** for that final exam.
+- **Imagine** that I plan to base the whole final exam for this course on this paper. I often have a nightmare where I walk into a room and find that I have arrived at the final exam for a course that I did not know I was enrolled in. I wake up in terror! Imagine that you are in that nightmare, and the final exam was the literature paper identifed below. 
+- **Take note** of anything that is new to you, that you do not understand, or that you feel you need more practice with. We need to make a plan so we can sepnd the rest of this course **getting you ready** for that final exam nightmare.
 - **Don't look anything up.** Try to use only the knowledge in your head. You are writing a list of things that you need to look up. Even if you know you know something, but can't remember it at the moment, include it in your list. Use this exercise to **assess you personal knowledge**.  
 <hr>
 
 ## The Literature
 
-Physical organic chemists spend a lot of energy arguing that the field is still relevant. A recent issue of the *Journal of Organic Chemistry* was devoted to this argument and collected a series of papers in the field.  One of the papers was short enough for this assignment. **Read the following paper**.
+Physical organic chemists spend a lot of energy arguing that **the field is still relevant**. A recent issue of the *Journal of Organic Chemistry* was devoted to this argument and collected a series of papers in the field.  One of the papers was short enough for this assignment. **Read the following paper**.
 
 > B. Andes Hess, Lidia Smentek; "An Unusual Friedel–Crafts Reaction and Violation of the Markovnikov Rule in the Formation of an Adamantyl Arene." *Journal of Organic Chemistry*, **2025**, *90*, 5546–5549. [https://doi.org/10.1021/acs.joc.5c00215](https://doi.org/10.1021/acs.joc.5c00215) Open Access
 
@@ -33,7 +33,7 @@ Physical organic chemists spend a lot of energy arguing that the field is still 
 
 This section describes the **deliverable** that you are to produce for this assignment. 
 
-After you complete all the activity described above, you will **write a short report**. Write a report that describes, in general terms, the point of the assigned literature example. Then **describe what you need to learn** in this course to explore and discuss the paper in detail (or pass that imaginary exam). 
+After you complete all the activity described above, you will **write a short report** that describes, in general terms, the point of the assigned literature example. Then **describe what you need to learn** to explore and discuss the paper in detail (or pass that imaginary exam). 
 
 Give your report a title, and be sure that your name is under the title. Write using a narrative style.  Do not use point form. Use any professional tools required (chemical drawing program, word processor, etc.) and submit the document in **PDF format**. 
 
@@ -86,7 +86,7 @@ Here is **what I am looking for** in a document that is awarded full marks. **Us
 :class: dropdown
 I have no objection to using the modern **AI systems** to get inspiration. However, you must **stand behind your work** that you submit. If you use an AI system for a portion of your document then you must become a copy editor. **Word salad** will be heavily penalized. Text that **circles** around a subject and never "gets there" is not useful. **Pointless sentences** or phrases that increase word count but **add nothing** else will be penalized. The goal is always to achieve **high information density** in your technical writing. No one has time to read words that don't advance the project.  
 
-I find its generally faster to **write your own words** than to correct the work of a machine. You will have to **fact check** everything carefully if you do not start with the facts. ***Wrong*** statements are **wrong**. Some might call them **halucinations**, others might call them **lies**. When you become a professional, presenting careless and embarassing **errors of fact** will harm your career (unless you are in politics.) And remember, everyone who has to spend a portion of a day reading something will always **be offended** if an author spent just a few minutes having a **machine** generate the words and is expecting the reader to do the fact checking and copy editing. Don't be that author; be your own author.
+I find its generally faster to **write your own words** than to correct the work of a machine. You will have to **fact check** everything carefully if you do not start with the facts. ***Wrong*** statements are **wrong**. Some might call them **halucinations**, others might call them **lies**. When you become a professional, presenting careless and embarassing **errors of fact** will harm your career (unless you are in politics). And remember, anyone who must spend a portion of a day reading something will always **be offended** if the author spent just a few minutes having a **machine** generate the words and is expecting the reader to do the fact checking and copy editing. Don't be that author; be your own author.
 ```
 
 <hr>

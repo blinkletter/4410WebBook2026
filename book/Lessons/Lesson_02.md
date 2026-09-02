@@ -26,10 +26,10 @@ The information for each of these class meetings can be accessed directly by the
     - Rate laws allow us to predict reaction rates. We will explore **rate laws** involving catalysis.
 9. **General \& Specific Catalysis**
     - We will define the different **types of acid/base catalysis** and explore cases in reactions we already know.
-10. **pH-Rate Profiles**
-    - The apparent **rate constant** of a reaction can **change with *pH*** if acid/base catalysis is involved. We can discern mechanistic information by ploting rate vs. *pH*.
 11. **Brønsted Plots**
     - When **proton transfer** is involved in a reaction mechanism we can identify if it occurs **before, during or after** the rate-determining step using a Brønsted plot.
+10. **pH-Rate Profiles**
+    - The apparent **rate constant** of a reaction can **change with *pH*** if acid/base catalysis is involved. We can discern mechanistic information by ploting rate vs. *pH*.
 
 ### Assignments
 
