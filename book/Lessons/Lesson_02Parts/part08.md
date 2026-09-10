@@ -56,6 +56,5 @@ assumption of steady-state assumption.
 
 The following **resources** may be useful.
 
-- [**Arrhenius Plots**](../Lesson_02/08-Arrhenius.pdf) \[PDF\] We often say that if the log of the pre-exponential term in the Arrhenius equation is greater than 13, the entropy of activation is positive. Where did thisw aphorism come from? This brief exploration will explain.
+- [**Arrhenius Plots and the 'A' Value**](../Lesson_02/08-Arrhenius.pdf) \[PDF\] We often say that if the log of the pre-exponential term in the Arrhenius equation is greater than 13, the entropy of activation is positive. Where did thisw aphorism come from? This brief exploration will explain.
 - [**Integrating Rate Equations**](../Lesson_02/09-T21-Integrating_Simple_Rate_Equations.pdf) \[PDF\] I wrote this document several **years ago** for my physical organic class as a review of previous topics in **reaction kinetics**. It presents the basics of creating a rate law and integrating it to obtain an equation that relates the concentration of reactants (or products) to time. Such equations will enable you to obtain **rate constants** from conc. vs. time data.
-

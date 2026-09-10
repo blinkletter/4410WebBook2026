@@ -58,4 +58,4 @@ The following ***Jupyter* notebooks** are made available below via *Google* Cola
     - [**Figure 2**](../../notebooks/M10_Ester_Carbamate_pH-Rate_Profile/pH-RateProfileEsters-FancyPlots.ipynb) \[via Colab\] Plots of pH-rate profiles for diclofenac esters.
 - [**The Changing Value of $K_w$**](../../notebooks/M10_Water_Ion_Product/water_ion_product.ipynb) \[via Colab\] This notebook produced the plots, interpolations and data analysis in the document exploring **Changing Value of $K_w$** vs temperature described above.
 
-
+### 

@@ -58,7 +58,7 @@ The following **resources** may be useful.
 
 - [**Molecular Orbital Tutorial**](../Lesson_01/27-Molecular_Orbital_Tutorial2_RC2.pdf) \[PDF\]
 I wrote this many years ago for my physical organic students. This tutorial outlines the "new math" that I use to construct molecular orbitals from atomic orbitals. It all boils down to "adding two blobs together gives you a bigger blob with lower energy."
-- [**That Arrhenius 'A' Value**](../Lesson_02/08-Arrhenius.pdf) \[PDF\] If the log of pre-exponential value is greater than 13 we expect a positive value for $\Delta S^\ddagger$ and vice versa. How was this determined? This brief exploration will explain.
+
 - [**An Anomeric Effect Handout**](../Lesson_01/06-Stereoelectronic_Effects.pdf) \[PDF\] In other years, we sometimes had time during this first lesson to discuss the anomeric effect in detail. Not this year - although we can return to this idea in the second half of the course if you make a request. This document is the handout for a past class meeting exploring the anomeric effect.
 
 ### From the Literature
