@@ -104,21 +104,20 @@ These tables contain many entries for acids in water and DMSO.
 - [**A Short *pK<sub>a</sub>* Table**](https://cactus.utahtech.edu/smblack/chem2310/summary_pages/pKa_chart.pdf) \[Web\] This is a compilation of *pK<sub>a</sub>* data curated by Sarah Black. This table focuses on general cases of functional groups and will give a quick survey of *pK<sub>a</sub>* values. 
 - [**Another Short *pK<sub>a</sub>* Table**](https://myersorganic.netlify.app/2511_Files/Chapter3-pKa%20table.pdf) \[Web\] This is a compilation of *pK<sub>a</sub>* data curated by Brian Myers. This table focuses on general trends in functional groups. 
 
+(L02PythonLink)= 
 ### A Bit of Python
 
 In some of the class meetings we will be **plotting data** in class to make a point. We could use MS Excel very easily. However, it is time to start considering more versatile and **powerful tools** available via the ***Python*** programming language and its ecosystem. In class, I will do all my coding using AI tools. We are not programmers. 
 
 Below are some **websites** that I have made over the years **to help** my students navigate *Python.* 
 
-- [**Math With *Python***](https://blinkletter.github.io/MathWithPython/)
-    - This website explores the basics of chemistry math using *Python*
-- [**Rate Equations with *Python***](https://blinkletter.github.io/ReactionKineticsBook/)
-    - This website presents using *Python* to investugate reaction kinetics and is perhaps the most applicable of all of these to this lesson.
-- [***Python* and Data Analysis in Chemistry**](https://blinkletter.github.io/PythonPresentation/)
-    - This website supports a presentation that I have given in the seminar series about using *Python* for plotting data and correctly propagating errors.
-- [**Steal This Code**](https://blinkletter.github.io/StealThisCode/)
-    - This website collects most of my *Python* examples, including many from the websites above.
+- **[Documenting Data Analysis](https://blinkletter.github.io/PythonPresentation/start.html)** \[Web via GitHub \& Colab\] I created this website to support a presentation in the departmental seminar series in which I argued that we all should use *Python* notebooks to document our data analysis and plots. Feel free to steal everything.
 
+- **[Math \& *Python*](https://blinkletter.github.io/MathWithPython/start.html)** \[Web via GitHub \& Colab\] I created this website to show students how to use *Python* as your calculator. If you use a *Python* notebook you can document all your math to help your future self when you need to repeat a calculation. You can reuse the code to repeat the same calculation with different data and save time. You can find your error and then recalculate without needing to repeat every step. 
+
+- **[Steal This Code](https://blinkletter.github.io/StealThisCode/start.html)** \[Web via GitHub \& Colab\] This is another website that I created to present more examples of using *Python* to perform calculations and data analysis. Steal it all.
+
+- **[Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html)** \[Web via GitHub\] This is a web textbook produced by Charles J. Weiss. It is an excellent way to learn the basics of *Python* and the many tools available for chemists.
 
 You do not have to learn *Python* -- but you do need to learn what it can **make possible**. You will then learn **what you need when you need** it as you progress in you career.
 

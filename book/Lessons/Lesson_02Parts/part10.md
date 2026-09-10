@@ -43,13 +43,7 @@ After participating in the before, during and after of this class meeting you wi
 
 ### Python Plotting
 
-We are beginning to enter the world of data analysis. Even a simple linear plot, like we deminstrated today, can benefit from more sophisticated analysis using tools that are easily accessible via *Python*. The following websites will be useful resources. I used to tell students to steal all my code, but now its easier to just as an LLM model to do everything for you. The key thing is that whatever code you end up with can be presented in text form in your paper, report or thesis for others to inspect.
-
-- **[Documenting Data Analysis](https://blinkletter.github.io/PythonPresentation/start.html)** \[Web via GitHub \& Colab\] I created this website to support a presentation in the departmental seminar series in which I argued that we all should use *Python* notebooks to document our data analysis and plots. Feel free to steal everything.
-
-- **[Math \& *Python*](https://blinkletter.github.io/MathWithPython/start.html)** \[Web via GitHub \& Colab\] I created this website to show students how to use *Python* as your calculator. If you use a *Python* notebook you can document all your math to help your future self when you need to repeat a calculation. You can reuse the code to repeat the same calculation with different data and save time. You can find your error and then recalculate without needing to repeat every step. 
-
-- **[Steal This Code](https://blinkletter.github.io/StealThisCode/start.html)** \[Web via GitHub \& Colab\] This is another website that I created to present more examples of using *Python* to perform calculations and data analysis. Steal it all.
+We are beginning to enter the world of data analysis. Even a simple linear plot, like we deminstrated today, can benefit from more sophisticated analysis using tools that are easily accessible via *Python*. The following websites will be useful resources. I used to tell students to steal all my code, but now its easier to just as an LLM model to do everything for you. The key thing is that whatever code you end up with can be presented in text form in your paper, report or thesis for others to inspect. {ref}`These resources are presented in the main page for Lesson #2<L02PythonLink>`.
 
 
 
