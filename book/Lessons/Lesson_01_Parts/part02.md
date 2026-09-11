@@ -21,9 +21,9 @@ And don't forget about your first assignment.
 
 We will construct the **molecular orbital diagram** for ethylene and formaldehyde using hybrid atomic orbitals as the basis-set. We will be using table 2.1 (page 69) of the textbook in our analysis so be sure to have it available (there should be a copy of the textbook on the shelf in the lounge.)
 
-We will construct the MO diagram for methanol and use this to analyze and criticize **arrow pushing** in the mechanism for **substitution** of the hydroxyl group by a chloride in acidic conditions. This analysis will be the foundation for the **rules** of arrow pushing that we will use in this course.
+We use the MO diagram for formaldehyde to analyze and criticize **arrow pushing** in the mechanism for **addition** of to the carbonyl group in acidic conditions. This analysis will be the foundation for the **rules** of arrow pushing that we will use in this course.
 
-Using our simplified model for molecular orbitals we will attempt to explain the "**anomeric effect**." Data from table 2.16 (page 120) and information from figure 2.19 (page 121) will be needed.
+Using our simplified model for molecular orbitals we will attempt to explain the "**anomeric effect**." Examine data from table 2.16 (page 120) and information from figure 2.19 (page 121) to help follow along.
 
 In class we will be using the following handout to guide our discussion.
 

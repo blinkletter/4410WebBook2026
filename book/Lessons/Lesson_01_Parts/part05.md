@@ -19,7 +19,7 @@ Don't forget about the assignment.
 
 ## During
 
-During our class meeting, we will learn how **arrow pushing** is just another way to describe the progress toward a **transition state**. An elementary reaction could be described by **arrows** showing electron movement or by a transition state diagram with **dotted lines** for changing bonds. We will discuss the idea of transition state structure and how we can model **something we can never see** using the **Hammond Postulate**. We will also explore how structure can affect transition state energy and change the reaction rate.
+During our class meeting, we will learn how **arrow pushing** is just another way to describe the progress toward a **transition state**. An elementary reaction could be described by **arrows** showing electron movement or by a transition state diagram with **dotted lines** for changing bonds. We will discuss the idea of transition state structure and how we can model **something we can never see** by using the **Hammond Postulate**. We will also explore how structure can affect transition state energy and change the reaction rate.
 
 In simple $S_N 2$ substitution mechanisms, we have a **bond forming** and a **bond breaking**. Do they change in lock-step? One change might get ahead of the other. How does this apply when we express **transition state structure** and describe reaction coordinates? We need **more dimensions** beyond a traditional one-dimensional reaction coordinate. We will only go as far as a second dimension, but you will see the possibility of using many more to describe a complex reaction. Today we will enter the two-dimensional world of the **More-O'Ferrall Jenks plot** (it looks like three names, but it's only two.)
 

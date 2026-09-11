@@ -48,6 +48,9 @@ I have used **other discussions** in this class meeting **in the past**. They ma
 - [**Exploration: pH-rate Profiles in Ester and Carbonate Hydrolysis**](../Lesson_02/10-Ester-carbamate.pdf) \[PDF\] An exploration of pH-rate profiles for the hydrolysis of phenyl bacronates and phenyl esters.
 - [**Exploration: The Changing Value of $K_w$**](../Lesson_02/10-KW_NIST_Exploration.pdf) \[PDF\] Like all equilibria, $K_w$ changes with temperature. There are tables af data available for values of $K_w$ at every temperature between 0 and 100 $^\circ C$. In this short exploration I attempt to interpret the literature for calculating the value of $K_w$ at any temperature and pressure.
 
+### Python Plotting
+
+We are continuing to explore the world of data analysis using *Python* tools. {ref}`Resources are presented in the main page for Lesson #2<L02PythonLink>` that provide an introduction to *Python* and examples to help you learn.
 ### Jupyter Notebooks
 
 The following ***Jupyter* notebooks** are made available below via *Google* Colab. I may use some of these for calculations during the class meeting. 
@@ -58,4 +61,4 @@ The following ***Jupyter* notebooks** are made available below via *Google* Cola
     - [**Figure 2**](../../notebooks/M10_Ester_Carbamate_pH-Rate_Profile/pH-RateProfileEsters-FancyPlots.ipynb) \[via Colab\] Plots of pH-rate profiles for diclofenac esters.
 - [**The Changing Value of $K_w$**](../../notebooks/M10_Water_Ion_Product/water_ion_product.ipynb) \[via Colab\] This notebook produced the plots, interpolations and data analysis in the document exploring **Changing Value of $K_w$** vs temperature described above.
 
-### 
+

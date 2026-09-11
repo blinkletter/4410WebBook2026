@@ -107,7 +107,10 @@ These tables contain many entries for acids in water and DMSO.
 (L02PythonLink)= 
 ### A Bit of Python
 
-In some of the class meetings we will be **plotting data** in class to make a point. We could use MS Excel very easily. However, it is time to start considering more versatile and **powerful tools** available via the ***Python*** programming language and its ecosystem. In class, I will do all my coding using AI tools. We are not programmers. 
+In some of the class meetings we will be **plotting data** in class to make a point. We could use MS Excel very easily. However, it is time to start considering more versatile and **powerful tools** available via the ***Python*** programming language and its ecosystem. In class, I will do all my coding using AI tools. We are not programmers. Below is a great website for starting in *Python* in chemistry.
+
+- **[Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html)** \[Web via GitHub\] This is a web textbook produced by Charles J. Weiss. It is an excellent way to learn the basics of *Python* and the many tools available for chemists.
+
 
 Below are some **websites** that I have made over the years **to help** my students navigate *Python.* 
 
@@ -117,7 +120,6 @@ Below are some **websites** that I have made over the years **to help** my stude
 
 - **[Steal This Code](https://blinkletter.github.io/StealThisCode/start.html)** \[Web via GitHub \& Colab\] This is another website that I created to present more examples of using *Python* to perform calculations and data analysis. Steal it all.
 
-- **[Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html)** \[Web via GitHub\] This is a web textbook produced by Charles J. Weiss. It is an excellent way to learn the basics of *Python* and the many tools available for chemists.
 
 You do not have to learn *Python* -- but you do need to learn what it can **make possible**. You will then learn **what you need when you need** it as you progress in you career.
 
